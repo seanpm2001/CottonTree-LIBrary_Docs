@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎌️🏴️🏳️🚩️🏁️📖️ The official documentation source repository for the CottonTree Software LIBrary project, a graphics LIBrary specializing in cloth modeling (with notable uses such as waving flags)
